@@ -7,3 +7,5 @@ line three
 line seven
 line fix bug
 line one
+line three
+
