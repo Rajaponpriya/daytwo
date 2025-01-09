@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 line four
 line five
+=======
+line one
+line two
+>>>>>>> a476a4f (added a line two)
